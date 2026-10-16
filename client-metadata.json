@@ -1,0 +1,13 @@
+{
+  "client_id": "https://radha-raman-labs.github.io/upwork/client-metadata.json",
+  "client_name": "Personal Upwork",
+  "client_uri": "https://radha-raman-labs.github.io/upwork/",
+  "application_type": "native",
+  "token_endpoint_auth_method": "none",
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "redirect_uris": [
+    "http://127.0.0.1:8080/oauth/callback",
+    "http://localhost:8080/oauth/callback"
+  ]
+}
